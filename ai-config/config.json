@@ -1,4 +1,4 @@
 {
-  "modelname": "gemini-3-flash-preview",
-  "version": "v1beta"
+  "ModelName": "gemini-3-flash-preview",
+  "Version": "v1beta"
 }
